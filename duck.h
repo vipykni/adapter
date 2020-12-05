@@ -3,10 +3,10 @@
 #include <iostream>
 using namespace std;
 
-class duck
+class Duck
 {
 public:
-    duck();
+    Duck();
     virtual void quack()=0;
     virtual void fly() =0;
 };

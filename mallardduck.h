@@ -1,9 +1,9 @@
 #ifndef MALLARDDUCK_H
 #define MALLARDDUCK_H
 
-#include "duck.h"
+#include "Duck.h"
 
-class MallardDuck : public duck
+class MallardDuck : public Duck
 {
 public:
     MallardDuck();

@@ -1,6 +1,6 @@
 #include "duck.h"
 
-duck::duck()
+Duck::Duck()
 {
 
 }
